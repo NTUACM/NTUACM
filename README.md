@@ -1,1 +1,1 @@
-# NTUACM (Nantong University Association of Computer Machinery)
+# NTUACM (Nantong University Association for Computer Machinery)
